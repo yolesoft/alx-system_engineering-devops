@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cat -e /etc/passwd) | cat -e  
+cat -e /etc/passwd  
